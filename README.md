@@ -1,7 +1,5 @@
 # LeetCode Solutions
 
-------
-
 ### Today Exercise
 
 #### [104. Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) 🆕
