@@ -10,5 +10,5 @@
 
 |   #   |                 Title                 |                          Language                           | Difficulty |
 | :---: | :-----------------------------------: | :---------------------------------------------------------: | :--------: |
-|  82   | Remove Duplicates from Sorted List II | [Go](https://github.com/Coding4Today/leetcode-solutions/blob/master/Golang/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md) |   Medium   |
+|  82   | Remove Duplicates from Sorted List II | [Go](./Golang/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md) |   Medium   |
 
